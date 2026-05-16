@@ -43,6 +43,46 @@ Nossa paleta foi selecionada para oferecer um contraste vibrante e moderno, mant
 | **Preto** | `#1D252A` |  | <kbd>![#1D252A](https://placehold.co/15x15/1D252A/1D252A.png)</kbd> |
 | **Branco** | `#FAFCFF` |  | <kbd>![#FAFCFF](https://placehold.co/15x15/FAFCFF/FAFCFF.png)</kbd> |
 
+## 📐 Tipografia & Hierarquia Visual
+
+Para garantir consistência, legibilidade e um forte apelo visual em toda a interface do projeto, estabelecemos um sistema de tipografia baseado em duas fontes geométricas modernas: **Montserrat** e **Poppins**.
+
+---
+
+### 🖋️ Fontes Escolhidas
+
+| Aplicação | Família Tipográfica | Estilo Geral | Propósito |
+| :--- | :--- | :--- | :--- |
+| **Títulos & Headings** | `Montserrat` | Sans-serif Geométrica | Impacto, presença e forte hierarquia visual. |
+| **Corpo & Rótulos** | `Poppins` | Sans-serif Geométrica | Fluidez de leitura, clareza e excelente renderização em telas. |
+
+---
+
+### Escala Tipográfica (Style Guide)
+
+#### 🔹 Montserrat — Títulos e Destaques
+Utilizada estritamente para capturar a atenção do usuário e segmentar as seções da aplicação.
+
+ **`H1 (Display)`**  **Tamanho:** 48px a 60px
+**Peso:** ExtraBold (800)
+  **Uso:** Títulos principais e telas de destaque.
+ **`H2 (Seção)`**  **Tamanho:** 32px a 40px
+  **Peso:** Bold (700)
+**Uso:** Títulos de seções e componentes maiores.
+ **`H3 (Subtítulo)`**  **Tamanho:** 24px a 28px
+  **Peso:** SemiBold (600)
+  **Uso:** Subtítulos de blocos e cards.
+
+
+#### 🔸 Poppins — Texto e Interface
+Utilizada para toda a parte de conteúdo, textos longos e elementos interativos.
+
+ **`Lead (Intro)`** — 20px | Medium (500)
+ **`Body (Corpo, padrão)`** — 16px a 18px | Regular (400)
+ **`Small (Apoio)`** — 14px | Regular (400)
+ **`Botão / CTA`** — 16px | SemiBold (600)
+
+---
 
 
 ---
