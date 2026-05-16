@@ -19,7 +19,7 @@ Bem-vindo ao guia de estilo oficial. Este documento detalha os elementos visuais
 
 <img src="roxo.png" alt="Mascote Sopinho" width="200px">
 
-<img src="verd.png" alt="Mascote Sopinho" width="200px">
+<img src="verde.png" alt="Mascote Sopinho" width="200px">
 
 
 ##  O Conceito do Dente-de-Leão
