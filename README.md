@@ -36,12 +36,12 @@ Nossa paleta foi selecionada para oferecer um contraste vibrante e moderno, mant
 
 | Cor | Hexadecimal | Descrição | Exemplo |
 | :--- | :--- | :--- | :--- |
-| **Azul** | `#1A53FF` |  | <kbd>![#1A53FF](https://placehold.co/15x15/1A53FF/1A53FF.png)</kbd> |
-| **Roxo** | `#9333EA` | | <kbd>![#9333EA](https://placehold.co/15x15/9333EA/9333EA.png)</kbd> |
-| **Verde** | `#30BD30` |  | <kbd>![#30BD30](https://placehold.co/15x15/30BD30/30BD30.png)</kbd> |
-| **Laranja** | `#F97316` | | <kbd>![#F97316](https://placehold.co/15x15/F97316/F97316.png)</kbd> |
-| **Preto** | `#1D252A` |  | <kbd>![#1D252A](https://placehold.co/15x15/1D252A/1D252A.png)</kbd> |
-| **Branco** | `#FAFCFF` |  | <kbd>![#FAFCFF](https://placehold.co/15x15/FAFCFF/FAFCFF.png)</kbd> |
+| **Azul** | `#1A53FF` |  Garante precisão e estabilidade tecnológica, transmitindo segurança e total confiabilidade na interface. | <kbd>![#1A53FF](https://placehold.co/15x15/1A53FF/1A53FF.png)</kbd> |
+| **Roxo** | `#9333EA` | Traz empatia e conexão humana ao design, equilibrando a frieza técnica com sensibilidade profunda.| <kbd>![#9333EA](https://placehold.co/15x15/9333EA/9333EA.png)</kbd> |
+| **Verde** | `#30BD30` | Remete à saúde e ao equilíbrio vital, funcionando como um ponto de harmonia.| <kbd>![#30BD30](https://placehold.co/15x15/30BD30/30BD30.png)</kbd> |
+| **Laranja** | `#F97316` | Cor quente que gera acolhimento imediato. Atua como o tom chamativo de alerta, sem causar ansiedade. | <kbd>![#F97316](https://placehold.co/15x15/F97316/F97316.png)</kbd> |
+| **Preto** | `#1D252A` | Tipografia  | <kbd>![#1D252A](https://placehold.co/15x15/1D252A/1D252A.png)</kbd> |
+| **Branco** | `#FAFCFF` | Tipografia | <kbd>![#FAFCFF](https://placehold.co/15x15/FAFCFF/FAFCFF.png)</kbd> |
 
 ## 📐 Tipografia & Hierarquia Visual
 
