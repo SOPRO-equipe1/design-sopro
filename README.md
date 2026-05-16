@@ -1,4 +1,4 @@
- <div align= "center"> <img src="" alt="LOGO" width="100%">
+ <div align= "center"> <img src="https://github.com/SOPRO-equipe1/.github/blob/main/profile/logo.png" alt="LOGO" width="225px">
 
 # 🎨 Guia de Design - 
 
@@ -8,23 +8,22 @@ Bem-vindo ao guia de estilo oficial. Este documento detalha os elementos visuais
 
 ---
 
-## 🔵 Identidade Visual
+<div align = "center">
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="soprinho.png" alt="Mascote Sopinho" width="100%">
-    </td>
-    <td width="50%" valign="top">
-      <h3></h3>
-      <p></p>
-      <p> .</p>
-      
-   
-  </tr>
-</table>
+##  Identidade Visual
 
----
+<img src="soprinho.png" alt="Mascote Sopinho" width="270px">
+
+
+
+
+##  O Conceito do Dente-de-Leão
+
+A identidade visual do SOPRO não foi escolhida por acaso. Ela é fundamentada na metáfora do **Dente-de-Leão**: uma flor que, ao receber um sopro sutil, desfaz-se em dezenas de sementes voadoras carregadas pelo vento para florescer em novos lugares.
+
+ **O Sopro como Ação:** O menor esforço físico do usuário — um sopro — aciona o sistema.
+ **As Sementes como Voz:** Cada semente espalhada representa uma palavra, uma intenção ou uma conexão estabelecida que supera as barreiras físicas do mutismo.
+
 
 ## 🎨 Paleta de Cores
 
@@ -32,15 +31,16 @@ Nossa paleta foi selecionada para oferecer um contraste vibrante e moderno, mant
 
 | Cor | Hexadecimal | Descrição | Exemplo |
 | :--- | :--- | :--- | :--- |
-| **Azul** | `#1A53FF` |  | <img src="https://via.placeholder.com/15/1A53FF/1A53FF.png" alt="blue"> |
-| **Roxo** | `#9333EA` | | <img src="https://via.placeholder.com/15/9333EA/9333EA.png" alt="purple"> |
-| **Verde** | `#30BD30` |  | <img src="https://via.placeholder.com/15/30BD30/30BD30.png" alt="green"> |
-| **Laranja** | `#F97316` |  | <img src="https://via.placeholder.com/15/F97316/F97316.png" alt="orange"> |
-| **Preto** | `#1D252A` | | <img src="https://via.placeholder.com/15/1D252A/1D252A.png" alt="black"> |
-| **Branco** | `#FAFCFF` | | <img src="https://via.placeholder.com/15/FAFCFF/FAFCFF.png" alt="white"> |
+| **Azul** | `#1A53FF` |  | <kbd>![#1A53FF](https://placehold.co/15x15/1A53FF/1A53FF.png)</kbd> |
+| **Roxo** | `#9333EA` | | <kbd>![#9333EA](https://placehold.co/15x15/9333EA/9333EA.png)</kbd> |
+| **Verde** | `#30BD30` |  | <kbd>![#30BD30](https://placehold.co/15x15/30BD30/30BD30.png)</kbd> |
+| **Laranja** | `#F97316` | | <kbd>![#F97316](https://placehold.co/15x15/F97316/F97316.png)</kbd> |
+| **Preto** | `#1D252A` |  | <kbd>![#1D252A](https://placehold.co/15x15/1D252A/1D252A.png)</kbd> |
+| **Branco** | `#FAFCFF` |  | <kbd>![#FAFCFF](https://placehold.co/15x15/FAFCFF/FAFCFF.png)</kbd> |
 
 
-- `palette.json` (Para integração com Tailwind/Styled Components)
 
 ---
-Criado com ❤️ pela equipe de Design.
+Criado com 💙 pela equipe de Design.
+
+</div>
