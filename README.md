@@ -12,7 +12,10 @@ Bem-vindo ao guia de estilo oficial. Este documento detalha os elementos visuais
 
 ##  Identidade Visual
 
+
 <img src="soprinho.png" alt="Mascote Sopinho" width="270px">
+
+<img src="soprinho2.png" alt="Mascote Sopinho" width="250px">
 
 
 
