@@ -15,11 +15,11 @@ Bem-vindo ao guia de estilo oficial. Este documento detalha os elementos visuais
 
 <img src="azul.png" alt="Mascote Soprinho" width="200px">
 
-<img src="soprinho2.png" alt="Mascote Sopinho" width="200px">
-
 <img src="roxo.png" alt="Mascote Sopinho" width="200px">
 
 <img src="verde.png" alt="Mascote Sopinho" width="200px">
+
+<img src="soprinho2.png" alt="Mascote Sopinho" width="200px">
 
 
 ##  O Conceito do Dente-de-Leão
