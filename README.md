@@ -1,6 +1,6 @@
  <div align= "center"> <img src="https://github.com/SOPRO-equipe1/.github/blob/main/profile/logo.png" alt="LOGO" width="225px">
 
-# 🎨 Guia de Design - 
+# 🎨 Guia de Design 
 
 </div>
 
@@ -58,30 +58,28 @@ Para garantir consistência, legibilidade e um forte apelo visual em toda a inte
 
 ---
 
-### Escala Tipográfica (Style Guide)
+### 📐 Escala Tipográfica (Style Guide)
 
 #### 🔹 Montserrat — Títulos e Destaques
-Utilizada estritamente para capturar a atenção do usuário e segmentar as seções da aplicação.
+*Utilizada estritamente para capturar a atenção do usuário e segmentar as seções da aplicação.*
 
- **`H1 (Display)`**  **Tamanho:** 48px a 60px
-**Peso:** ExtraBold (800)
-  **Uso:** Títulos principais e telas de destaque.
- **`H2 (Seção)`**  **Tamanho:** 32px a 40px
-  **Peso:** Bold (700)
-**Uso:** Títulos de seções e componentes maiores.
- **`H3 (Subtítulo)`**  **Tamanho:** 24px a 28px
-  **Peso:** SemiBold (600)
-  **Uso:** Subtítulos de blocos e cards.
+| Elemento | Tamanho | Peso (Weight) | Uso Recomendado |
+| :--- | :--- | :--- | :--- |
+| **`H1 (Display)`** | 48px a 60px | ExtraBold (800) | Títulos principais e telas de destaque. |
+| **`H2 (Seção)`** | 32px a 40px | Bold (700) | Títulos de seções e componentes maiores. |
+| **`H3 (Subtítulo)`** | 24px a 28px | SemiBold (600) | Subtítulos de blocos e cards. |
 
+<br>
 
 #### 🔸 Poppins — Texto e Interface
-Utilizada para toda a parte de conteúdo, textos longos e elementos interativos.
+*Utilizada para toda a parte de conteúdo, textos longos e elementos interativos.*
 
- **`Lead (Intro)`** — 20px | Medium (500)
- **`Body (Corpo, padrão)`** — 16px a 18px | Regular (400)
- **`Small (Apoio)`** — 14px | Regular (400)
- **`Botão / CTA`** — 16px | SemiBold (600)
-
+| Elemento | Tamanho | Peso (Weight) | Uso Recomendado |
+| :--- | :--- | :--- | :--- |
+| **`Lead (Intro)`** | 20px | Medium (500) | Textos de introdução e destaques editoriais. |
+| **`Body (Corpo, padrão)`** | 16px a 18px | Regular (400) | Conteúdo principal, parágrafos e textos longos. |
+| **`Small (Apoio)`** | 14px | Regular (400) | Legendas, textos de apoio e microcópias. |
+| **`Botão / CTA`** | 16px | SemiBold (600) | Textos internos de botões e chamadas para ação. |
 ---
 
 
