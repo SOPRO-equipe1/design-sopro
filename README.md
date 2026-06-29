@@ -23,6 +23,12 @@ A identidade visual do SOPRO não foi escolhida por acaso. Ela é fundamentada n
  **O Sopro como Ação:** O menor esforço físico do usuário — um sopro — aciona o sistema.
  **As Sementes como Voz:** Cada semente espalhada representa uma palavra, uma intenção ou uma conexão estabelecida que supera as barreiras físicas do mutismo.
 
+## Identidade visual
+
+|  |  |  | |
+| :---: | :---: | :---: | :---: |
+| <img src="https://github.com/SOPRO-equipe1/design-sopro/blob/main/botAzul.png" width="150"> | <img src="https://github.com/SOPRO-equipe1/design-sopro/blob/main/botRoxo.png" width="150"> | <img src="https://github.com/SOPRO-equipe1/design-sopro/blob/main/botVerde.png" width="150"> | <img src="https://github.com/SOPRO-equipe1/design-sopro/blob/main/botLaranja.png" width="150"> |
+
 
 ## 🎨 Paleta de Cores
 
