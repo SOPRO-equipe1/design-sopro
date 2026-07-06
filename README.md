@@ -8,6 +8,7 @@ Bem-vindo ao guia de estilo oficial. Este documento detalha os elementos visuais
 
  
 [![Figma](https://img.shields.io/badge/FIGMA-000?style=for-the-badge&logoColor=FFF&color=000)](https://www.figma.com/design/aZ0YTbIB6YzSKI57QohXxj/SOPRO?node-id=3-1011&p=f&t=DgQue191eudg5ICx-0)
+[![Soprinho](https://img.shields.io/badge/SOPRINHO-000?style=for-the-badge&logoColor=FFF&color=000)](https://github.com/SOPRO-equipe1/chatbot-doc)
 
 </div>
 
