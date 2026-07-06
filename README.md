@@ -84,6 +84,6 @@ Para garantir consistência, legibilidade e um forte apelo visual em toda a inte
 
 
 ---
-Criado com 💙 pela equipe de Design - Instituto PROA, 2026
+Criado com 💙 e muito caldo de cana pela equipe de Design - Instituto PROA, 2026
 
 </div>
