@@ -1,6 +1,10 @@
  <div align= "center"> <img src="https://github.com/SOPRO-equipe1/.github/blob/main/profile/logo.png" alt="LOGO" width="225px">
 
+### *Sua voz, seu sopro.*
+
 # 🎨 Guia de Design 
+
+
 
 
 
